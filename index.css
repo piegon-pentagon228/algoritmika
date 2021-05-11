@@ -1,0 +1,70 @@
+body {
+font-family: sans-serif;
+}
+header{
+background-color: #0776A0;
+padding: 20px 0px 20px 15px;
+}
+
+h1{
+
+position: absolute;
+width: 467px;
+height: 75px;
+left: 246px;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+text-align: center;
+/* identical to box height */
+
+color: #0C5AA6;
+
+}
+.photos {
+/* silhouette-3105786_1280 1 */
+height: 400px;
+left: 180px;
+margin-bottom: 150px;
+padding-top: 0px;
+
+}
+.logo {
+height: 60px;
+}
+header a {
+margin-left: 15px;
+text-decoration: none;
+color: black;
+background-color: #FFB600;
+padding: 5px;
+font-size: 40px;
+border-radius: 10px;
+}
+footer {
+background-color: #024C68;
+color: black;
+padding: 5px;
+font-size: 30px;
+}
+footer p {
+/* Rectangle 11 */
+
+background: #FFB600;
+
+}
+
+p, ul{
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+color: #000000;
+}
+
+h2{
+font-size: 36px;
+line-height: 42px;
+margin-top: 0px;
+}
